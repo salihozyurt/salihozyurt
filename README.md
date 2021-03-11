@@ -3,7 +3,7 @@
 #### 🎓 Senior Computer Engineering student at Marmara University.
 #### 🎯 I love solving challenging problems in frontend and backend development.
 #### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
-#### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="20px"/> salih.zyurt@gmail.com</a>
+#### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="17px"/> salih.zyurt@gmail.com</a>
 #### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" height="20px"/> salihozyurt@yahoo.com</a>
 #### <a href="https://www.linkedin.com/in/salihozyurtt/" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615486640~hmac=be6ef79bebf2b8ac6495ef1049b90e14" height="20px"/> salihozyurt.tech</a>
 
