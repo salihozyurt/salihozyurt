@@ -2,10 +2,10 @@
 
 ###### 🎓 Senior Computer Engineering student at Marmara University.
 
-<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> ⚡ salihozyurt.tech</a> </br>
+<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a> </br>
 <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 
-### 🎓 Senior Computer Engineering student at Marmara University.
+### ⚡ Developing Tools
 
 <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="20px"/>
 <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="20px"/>
