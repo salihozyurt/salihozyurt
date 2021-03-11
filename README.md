@@ -21,7 +21,6 @@
   <img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" height="30px"/>
   <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/yarn_icon_130775.png" height="30px"/>
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px"/>
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px"/>
   <img align="center" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" height="30px"/>
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" height="30px"/>
 </div>
