@@ -5,7 +5,7 @@
 <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> ⚡ salihozyurt.tech</a> </br>
 <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 
-<img align="center" src="https://www.iconfinder.com/icons/1174949/js_react_js_logo_react_react_native_icon" height="20px"/>
+<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="20px"/>
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
