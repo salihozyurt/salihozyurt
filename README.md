@@ -1,6 +1,7 @@
 # SALİH ÖZYURT 🖥️
 
-<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer">salihozyurt.tech ⚡ </a>
+<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> ⚡ salihozyurt.tech</a>
+<a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
