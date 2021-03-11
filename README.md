@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div style="text-align: center">
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" heigth="300px"/>
 </a>
