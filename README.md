@@ -5,7 +5,7 @@
 #### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
 #### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 #### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> 📧 salihozyurt@yahoo.com</a>
-</br>
+
 ## ⚡ Developing Tools
 </br>
 <div style="text-align:center;">
