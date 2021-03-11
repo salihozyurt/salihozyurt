@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" heigth="200px"/>
 </a>
@@ -7,6 +8,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko" heigth="200px"/>
 </a>
+</div>
 
 <!--
 **salihozyurt/salihozyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
