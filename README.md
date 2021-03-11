@@ -18,6 +18,7 @@
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30px"/>
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30px"/>
   <img align="center" src="https://spng.subpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-5b86feeb86e8a1.1534670415355737395526.jpg" height="30px"/>
+  <img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" height="30px"/>
 </div>
 
 </br>
