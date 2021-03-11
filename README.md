@@ -7,8 +7,10 @@
 
 ### ⚡ Developing Tools
 
-<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="20px"/>
-<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="20px"/>
+<div style="text-align:center;">
+<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30px"/>
+<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="30px"/>
+</div>
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
