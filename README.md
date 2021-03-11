@@ -1,5 +1,7 @@
 # SALİH ÖZYURT 🖥️
 
+<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer">salihozyurt.tech ⚡ </a>
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" height="200px"/>
