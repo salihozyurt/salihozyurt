@@ -2,11 +2,11 @@
 
 <div style="borderTop:2px solid #fff;borderRadius:20px 0px 20px 0px">
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" height="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" height="200px"/>
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko" height="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko" height="200px"/>
 </a>
 </div>
 
