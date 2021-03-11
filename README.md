@@ -1,10 +1,10 @@
-# SALİH ÖZYURT  <img align="center" src="https://cdn2.iconfinder.com/data/icons/mobile-smart-phone/64/connect_phone_pc_computer_sync-512.png" height="30px"/>
+# SALİH ÖZYURT  <img align="center" src="https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/009_workspace_workplace_desktop_computer_keyboard_mouse_screen-512.png" height="30px"/>
 
 #### 🎓 Senior Computer Engineering student at Marmara University.
 
-<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a> </br>
-<a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
-<a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> 📧 salihozyurt@yahoo.com</a>
+#### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
+#### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
+#### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> 📧 salihozyurt@yahoo.com</a>
 
 ### ⚡ Developing Tools
 
