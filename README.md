@@ -2,7 +2,7 @@
 
 <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> ⚡ salihozyurt.tech</a> </br>
 <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
-### 🎓 Senior Computer Engineering student at Marmara University.
+###### 🎓 Senior Computer Engineering student at Marmara University.
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
