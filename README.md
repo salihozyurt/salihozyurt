@@ -23,6 +23,8 @@
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px"/>
   <img align="center" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" height="30px"/>
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" height="30px"/>
+  <img align="center" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" height="30px"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" height="30px"/>
 </div>
 
 </br>
