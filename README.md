@@ -1,7 +1,7 @@
 # SALİH ÖZYURT  <img align="center" src="https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/009_workspace_workplace_desktop_computer_keyboard_mouse_screen-512.png" height="30px"/>
 
 #### 🎓 Senior Computer Engineering student at Marmara University.
-
+#### 🎯 I love solving challenging problems in frontend and backend development.
 #### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
 #### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 #### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> 📧 salihozyurt@yahoo.com</a>
@@ -15,7 +15,7 @@
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" height="30px"/>
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" height="30px"/>
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-512.png" height="30px"/>
-  
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30px"/>
 </div>
 
 </br>
