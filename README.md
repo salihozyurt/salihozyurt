@@ -1,6 +1,6 @@
 # SALİH ÖZYURT 🖥️
 
-<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> ⚡ salihozyurt.tech</a>
+<a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> ⚡ salihozyurt.tech</a> </br>
 <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 
 <div>
