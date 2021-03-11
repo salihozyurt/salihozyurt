@@ -5,9 +5,9 @@
 #### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
 #### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> 📫 salih.zyurt@gmail.com</a>
 #### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> 📧 salihozyurt@yahoo.com</a>
-
-### ⚡ Developing Tools
-
+</br>
+## ⚡ Developing Tools
+</br>
 <div style="text-align:center;">
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30px"/>
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="30px"/>
