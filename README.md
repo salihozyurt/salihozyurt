@@ -1,4 +1,4 @@
-# SALİH ÖZYURT 🖥️
+# SALİH ÖZYURT 🖥️  <img align="center" src="https://cdn2.iconfinder.com/data/icons/free-version/128/workplace-512.png" height="30px"/>
 
 #### 🎓 Senior Computer Engineering student at Marmara University.
 
@@ -14,6 +14,7 @@
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" height="30px"/>
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" height="30px"/>
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" height="30px"/>
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-512.png" height="30px"/>
   
 </div>
 
