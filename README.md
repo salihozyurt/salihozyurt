@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style={{ borderTop: "2px solid #fff", borderRadius: "20px 0px 20px 0px" }}>
+<div style="borderTop:2px solid #fff;borderRadius:20px 0px 20px 0px">
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" heigth="300px"/>
 </a>
