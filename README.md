@@ -31,11 +31,11 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" height="250px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko" height="230px"/>
   </a>
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko" height="250px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozyurt&theme=merko" height="230px"/>
   </a>
 </div>
 
