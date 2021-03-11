@@ -1,4 +1,4 @@
-# SALİH ÖZYURT 💻
+# SALİH ÖZYURT 🖥️
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=salihozyurt&show_icons=true&theme=merko">
