@@ -7,7 +7,7 @@
 
 ## ⚡ Developing Tools
 
-<div align="center">
+<div align="center" style="background-color:white">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="25px"/>
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="30px"/>
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" height="30px"/>
