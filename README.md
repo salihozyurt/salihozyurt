@@ -9,23 +9,22 @@
 
 ## ⚡ Developing Tools
 
-<div style="text-align:center;">
+<div style="text-align:center; border: 2px solid black; border-radius: 20px; padding: 10px; background-color:white;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="25px"/>
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="30px"/>
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" height="30px"/>
+    <img align="center" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" height="30px"/>
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-512.png" height="30px"/>
+    
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30px"/>
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="30px"/>
+  
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" height="30px"/>
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" height="30px"/>
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" height="30px"/>
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-512.png" height="30px"/>
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30px"/>
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30px"/>
-  <img align="center" src="https://spng.subpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-5b86feeb86e8a1.1534670415355737395526.jpg" height="30px"/>
-  <img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" height="30px"/>
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/yarn_icon_130775.png" height="30px"/>
+  <img align="center" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height="30px"/>
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px"/>
   <img align="center" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" height="30px"/>
-  <img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" height="30px"/>
-  <img align="center" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" height="30px"/>
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" height="30px"/>
 </div>
 
 </br>
