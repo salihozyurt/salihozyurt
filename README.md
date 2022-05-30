@@ -1,11 +1,9 @@
 # SALİH ÖZYURT  <img align="center" src="https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/009_workspace_workplace_desktop_computer_keyboard_mouse_screen-512.png" height="30px"/>
 
-#### 🎓 Senior Computer Engineering student at Marmara University.
-#### 🎯 I love solving challenging problems in frontend and backend development.
-#### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
-#### <a href="mailto:salih.zyurt@gmail.com" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="17px"/> salih.zyurt@gmail.com</a>
+#### 🍐 I work at Armut as Back-end Developer.
+#### 🎓 Graduated from Computer Science Engineering at Marmara University.
 #### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" height="20px"/> salihozyurt@yahoo.com</a>
-#### <a href="https://www.linkedin.com/in/salihozyurtt/" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20px"/> linkedin.com/in/salihozyurtt/</a>
+#### <a href="https://www.linkedin.com/in/salihozyurtt/" target = "_blank" rel="noopener noreferrer"> <img align="center" src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://i7.pngguru.com/preview/668/576/941/social-media-linkedin-computer-icons-facebook-inc-social-networking-service-social-media.jpg)" height="20px"/> linkedin.com/in/salihozyurtt/</a>
 
 ## ⚡ Developing Tools
 
