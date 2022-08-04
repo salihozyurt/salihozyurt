@@ -2,6 +2,7 @@
 
 #### 🍐 I work at Armut as Back-end Developer.
 #### 🎓 Graduated from Computer Science Engineering at Marmara University.
+#### <a href="https://salihozyurt.tech" target = "_blank" rel="noopener noreferrer"> 🔗 salihozyurt.tech</a>
 #### <a href="mailto:salihozyurt@yahoo.com" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" height="20px"/> salihozyurt@yahoo.com</a>
 #### <a href="https://www.linkedin.com/in/salihozyurtt/" target = "_blank" rel="noopener noreferrer"> <img align="center" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" height="20px"/> linkedin.com/in/salihozyurtt/</a>
 
